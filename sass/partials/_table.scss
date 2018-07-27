@@ -1,0 +1,10 @@
+.rt-td {
+  display: flex;
+  align-items: center;
+  // justify-content: center;
+  min-width: 0;
+}
+
+.rt-td:first-child {
+  // justify-content: flex-start;
+}

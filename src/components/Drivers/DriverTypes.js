@@ -1,0 +1,3 @@
+export const DRIVER_LOADING = 'DRIVER_LOADING';
+export const DRIVER_LIST = 'DRIVER_LIST';
+export const DRIVER_ERROR = 'DRIVER_ERROR';
